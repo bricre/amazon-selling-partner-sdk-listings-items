@@ -31,8 +31,12 @@ composer require symfony/http-client
 
 ## Versioning
 
-Starting from version 1.7.0, this project will match according eBay API's versioning. Should you found a matching
-version not being available. Please contact the author to generate against correct version.
+This project matches Amazon's API versioning.
+
+Due to the [restriction of Composer](https://getcomposer.org/doc/articles/versions.md), version number like
+'2021-01-01' will be changed to '2021.01.01'.
+
+Should you found a matching version not being available. Please contact the author to generate against correct version.
 
 ## Usage
 
