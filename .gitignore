@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+generated/*
+vendor/
+/.idea/
+*.phpunit.result.cache
+.php_cs.cache
+.config.openapi-generator.php
